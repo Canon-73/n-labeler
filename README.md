@@ -9,6 +9,8 @@
 波形・スペクトログラム・F0・パワーを同期表示しながら、`.lab`（HTK形式）の
 音素境界をマウスで直感的に編集できる Windows デスクトップアプリです。
 
+[日本語](README.md) · [English](README.en.md)
+
 [![Download](https://img.shields.io/badge/⬇_最新版をダウンロード-Releases-2ea44f?style=for-the-badge)](../../releases/latest)
 
 </div>
